@@ -10,7 +10,7 @@
 </div>
 
 #  features developed 
-- [x] return 'olá,spring!' at /
+- [x] return 'olá,spring!' at get in /
 
 
 # Getting Started
