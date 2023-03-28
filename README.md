@@ -19,7 +19,7 @@ To clone the project, run the following command:
 ```git
 git clone https://github.com/NinaS23/HelloSpring_Java.git
 ```
-Then navigate to the project folder in ApplicationTests.java and:
+Then navigate to the project folder in Application.java and:
 
 ```git
 run the project
