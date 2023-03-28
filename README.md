@@ -19,4 +19,13 @@ To clone the project, run the following command:
 ```git
 git clone https://github.com/NinaS23/HelloSpring_Java.git
 ```
-then navigate to the project folder in ApplicationTests.java and play run 
+Then navigate to the project folder in ApplicationTests.java and:
+
+```git
+play run at VsCode
+```
+
+To see the string , got to browser and type at search Bar: 
+```git
+http://localhost:8080/
+```
