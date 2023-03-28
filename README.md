@@ -22,7 +22,7 @@ git clone https://github.com/NinaS23/HelloSpring_Java.git
 Then navigate to the project folder in ApplicationTests.java and:
 
 ```git
-play run at VsCode
+and run the project
 ```
 
 To see the string , got to browser and type at search Bar: 
