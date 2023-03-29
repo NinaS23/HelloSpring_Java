@@ -1,4 +1,4 @@
-# HelloSpring_Java
+# Hello_Spring_Java
   <div align='center'>
     <img height="230px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
   </div>
